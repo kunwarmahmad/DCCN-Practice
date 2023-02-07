@@ -9,10 +9,10 @@ Designed the Network in CPT and practiced following
 
 Implemented the given scenario in NS2 and practiced following protocols
 
-Fair Queuing
-Droptail
-TCP Tahoe
-TCP Reno
-TCP Sink
-UDP
-Distance Vector Algorithm
+1. Fair Queuing
+2. Droptail
+3. TCP Tahoe
+4. TCP Reno
+5. TCP Sink
+6. UDP
+7. Distance Vector Algorithm
