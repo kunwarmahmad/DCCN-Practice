@@ -1,6 +1,6 @@
 # DCCN-Practice
-Solved 2 Questions related to Cisco Packet Tracer and Network Simulator (NS2) with X-Graph
-Question Statements are uploaded in questions
+**Solved 2** Exercise** related to Cisco Packet Tracer and Network Simulator (NS2) with X-Graph**
+
 Designed the Network in CPT and practiced following
 
 1. VoIP
