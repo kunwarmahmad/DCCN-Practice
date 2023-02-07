@@ -3,9 +3,10 @@ Solved 2 Questions related to Cisco Packet Tracer and Network Simulator (NS2) wi
 Question Statements are uploaded in questions
 Designed the Network in CPT and practiced following
 
-VoIP
-DHCP
-VTP & VLAN
+1. VoIP
+2. DHCP
+3. VTP & VLAN
+
 Implemented the given scenario in NS2 and practiced following protocols
 
 Fair Queuing
